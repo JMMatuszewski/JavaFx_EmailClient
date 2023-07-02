@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane prefHeight="250.0" prefWidth="450.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="com.barosanu.controller.LoginWindowController">
+<AnchorPane prefHeight="250.0" prefWidth="450.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
   <children>
     <Button layoutX="164.0" layoutY="147.0" mnemonicParsing="false" onAction="#loginButtonAction" prefHeight="42.0" prefWidth="105.0" text="Login" />
     <Label layoutX="29.0" layoutY="63.0" text="Email Address" />
